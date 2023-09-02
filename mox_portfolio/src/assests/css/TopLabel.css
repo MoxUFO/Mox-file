@@ -1,0 +1,12 @@
+.top-label{
+    display: flex;
+    justify-content: space-between;
+    padding-inline: 7%;
+    padding-top: 25px;
+}
+
+.chip{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
