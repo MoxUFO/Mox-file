@@ -1,0 +1,13 @@
+.intro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+    width: 100%;
+}
+
+.intro-card{
+    width: 50%;
+    height: 30%;
+    background-color: #1F3A5C;
+}
