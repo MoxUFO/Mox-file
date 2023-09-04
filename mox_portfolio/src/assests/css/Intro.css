@@ -4,10 +4,20 @@
     align-items: center;
     height: 600px;
     width: 100%;
+    
 }
 
 .intro-card{
-    width: 50%;
-    height: 30%;
+    width: 45%;
+    height: 45%;
     background-color: #1F3A5C;
+}
+
+@media screen and (max-width: 480px) {
+    .intro-card{
+        width: 90%;
+        height: 40%;
+        background-color: #1F3A5C;
+    }
+    
 }
