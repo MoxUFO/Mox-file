@@ -5,12 +5,10 @@ import "../assests/css/Intro.css";
 export default function Intro() {
   return (
     <div className="intro">
-      <Card className="intro-card">
-        <p>
-          Welcome to my portfolio, where you can explore my latest projects. If
-          you have any questions or wish to discuss a project in more detail,
-          please don't hesitate to get in touch. Thank you for visiting!
-        </p>
+      <Card  className="intro-card">
+        <h1>Hello, I'm Nelson Foster Jr</h1>
+        <h1>Full Stack Web Developer </h1>
+        <h1>Welocome to my Portfolio</h1>
       </Card>
     </div>
   );

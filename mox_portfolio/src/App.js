@@ -6,7 +6,7 @@ function App() {
 
   
   return (
-<div className='intro'>
+<div className='back-drop' >
  <PortfolioContainer/>
 </div>
   );
