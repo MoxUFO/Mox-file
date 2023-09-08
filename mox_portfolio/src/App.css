@@ -4,7 +4,7 @@ height: 100vh;
 background: url('./assests/images/super.jpg');
 background-size: cover;
 background-position: center;
-
+background-attachment: fixed;
 
 }
 
