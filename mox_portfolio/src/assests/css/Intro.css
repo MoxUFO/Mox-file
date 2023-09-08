@@ -20,7 +20,7 @@
 
 @media (max-width: 480px) {
     .intro-card{
-        margin-top: 5%;
+        /* margin-top: 5%; */
         width: 90%;
         background-color: #E1DDCB !important;
     }

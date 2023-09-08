@@ -1,9 +1,9 @@
 .back-drop{
-height: 100vh;
+/* height: 100vh; */
 /* background-color: #1F3A5C; */
 background: url('./assests/images/super.jpg');
 background-size: cover;
-background-position: center;
+/* background-position: center; */
 background-attachment: fixed;
 
 }

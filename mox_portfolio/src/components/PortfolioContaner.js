@@ -8,6 +8,7 @@ export default function PortfolioContaner() {
   return (
     <div className='content'>
      < Intro />
+     <Projects />
       <NavBar />
     </div>
   )
